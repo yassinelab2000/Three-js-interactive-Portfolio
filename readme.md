@@ -1,4 +1,4 @@
-# Three.js Journey
+# Redi
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
